@@ -69,7 +69,17 @@ e colocar o arquivo img/favicon.jpg como icone da página
 		IMAGEM[img/tagP_Exemplo.png] TEXTO ALTERNATIVO:Tag para parágrafo
     
     Negrito, itálico, marcar texto, sobrescrito e subscrito
-		IMAGEM[img/tagsNegritoItalicoEtc.png] TEXTO ALTERNATIVO:Tags para negrito, italico, etc.
+	Negrito e Itálico
+    Para deixar um texto em negrito é utilizada a tag strong que da um significado semântico.
+    Pra deixa um texto em itálico usa-se a tag em o que mostra que queremos dar ênfase ao texto.
+    
+	Marcador de texto
+    Utiliza-se a tag mark para delimitar um recho de texto para marcar.
+    
+	Sobrescrito e subscrito
+    A tag sub coloca o um texto em subscrito, exemplo H2SO4.
+    A tag sup coloca um texto em sobrescrito, exemplo X3+Y2
+
 
     Icone da Pagina
     Para colocar um icone na página o ideal é ter um arquivo de 16 x 16 pixels ou 32 x 32 pixels e utilizamos a tag link dentro do head.
