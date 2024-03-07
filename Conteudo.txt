@@ -77,8 +77,7 @@ e colocar o arquivo img/favicon.jpg como icone da página
     Utiliza-se a tag mark para delimitar um recho de texto para marcar.
     
 	Sobrescrito e subscrito
-    A tag sub coloca o um texto em subscrito, exemplo H2SO4.
-    A tag sup coloca um texto em sobrescrito, exemplo X3+Y2
+    A tag sub coloca o um texto em subscrito, exemplo H2SO4. A tag sup coloca um texto em sobrescrito, exemplo X3+Y2
 
 
     Icone da Pagina
